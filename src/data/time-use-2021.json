@@ -1,0 +1,220 @@
+{
+  "source": "令和3年社会生活基本調査 調査票B 第2-2表・第2-3表",
+  "publisher": "総務省統計局",
+  "referenceYear": 2021,
+  "sourceUrl": "https://www.stat.go.jp/data/shakai/2021/kekka.htm",
+  "tables": {
+    "male": [
+      {
+        "ageGroup": "10-14",
+        "minutes": {
+          "sleep": 545,
+          "meals": 93,
+          "personalCare": 67,
+          "workSchool": 422,
+          "commuting": 42,
+          "housework": 8,
+          "care": 2,
+          "shoppingOther": 10
+        }
+      },
+      {
+        "ageGroup": "15-24",
+        "minutes": {
+          "sleep": 514,
+          "meals": 96,
+          "personalCare": 64,
+          "workSchool": 239,
+          "commuting": 51,
+          "housework": 15,
+          "care": 0,
+          "shoppingOther": 14
+        }
+      },
+      {
+        "ageGroup": "25-34",
+        "minutes": {
+          "sleep": 502,
+          "meals": 97,
+          "personalCare": 64,
+          "workSchool": 26,
+          "commuting": 51,
+          "housework": 29,
+          "care": 15,
+          "shoppingOther": 22
+        }
+      },
+      {
+        "ageGroup": "35-44",
+        "minutes": {
+          "sleep": 476,
+          "meals": 93,
+          "personalCare": 66,
+          "workSchool": 29,
+          "commuting": 50,
+          "housework": 31,
+          "care": 19,
+          "shoppingOther": 21
+        }
+      },
+      {
+        "ageGroup": "45-54",
+        "minutes": {
+          "sleep": 469,
+          "meals": 105,
+          "personalCare": 64,
+          "workSchool": 30,
+          "commuting": 50,
+          "housework": 39,
+          "care": 9,
+          "shoppingOther": 27
+        }
+      },
+      {
+        "ageGroup": "55-64",
+        "minutes": {
+          "sleep": 470,
+          "meals": 116,
+          "personalCare": 69,
+          "workSchool": 38,
+          "commuting": 45,
+          "housework": 40,
+          "care": 7,
+          "shoppingOther": 29
+        }
+      },
+      {
+        "ageGroup": "65-74",
+        "minutes": {
+          "sleep": 493,
+          "meals": 123,
+          "personalCare": 70,
+          "workSchool": 102,
+          "commuting": 19,
+          "housework": 70,
+          "care": 5,
+          "shoppingOther": 35
+        }
+      },
+      {
+        "ageGroup": "75+",
+        "minutes": {
+          "sleep": 550,
+          "meals": 138,
+          "personalCare": 84,
+          "workSchool": 125,
+          "commuting": 3,
+          "housework": 86,
+          "care": 2,
+          "shoppingOther": 30
+        }
+      }
+    ],
+    "female": [
+      {
+        "ageGroup": "10-14",
+        "minutes": {
+          "sleep": 529,
+          "meals": 95,
+          "personalCare": 74,
+          "workSchool": 440,
+          "commuting": 33,
+          "housework": 11,
+          "care": 3,
+          "shoppingOther": 14
+        }
+      },
+      {
+        "ageGroup": "15-24",
+        "minutes": {
+          "sleep": 500,
+          "meals": 97,
+          "personalCare": 88,
+          "workSchool": 263,
+          "commuting": 63,
+          "housework": 24,
+          "care": 1,
+          "shoppingOther": 22
+        }
+      },
+      {
+        "ageGroup": "25-34",
+        "minutes": {
+          "sleep": 518,
+          "meals": 102,
+          "personalCare": 80,
+          "workSchool": 187,
+          "commuting": 32,
+          "housework": 91,
+          "care": 85,
+          "shoppingOther": 32
+        }
+      },
+      {
+        "ageGroup": "35-44",
+        "minutes": {
+          "sleep": 481,
+          "meals": 109,
+          "personalCare": 87,
+          "workSchool": 258,
+          "commuting": 28,
+          "housework": 164,
+          "care": 73,
+          "shoppingOther": 45
+        }
+      },
+      {
+        "ageGroup": "45-54",
+        "minutes": {
+          "sleep": 454,
+          "meals": 108,
+          "personalCare": 83,
+          "workSchool": 244,
+          "commuting": 28,
+          "housework": 194,
+          "care": 19,
+          "shoppingOther": 53
+        }
+      },
+      {
+        "ageGroup": "55-64",
+        "minutes": {
+          "sleep": 443,
+          "meals": 116,
+          "personalCare": 85,
+          "workSchool": 252,
+          "commuting": 25,
+          "housework": 202,
+          "care": 11,
+          "shoppingOther": 56
+        }
+      },
+      {
+        "ageGroup": "65-74",
+        "minutes": {
+          "sleep": 464,
+          "meals": 121,
+          "personalCare": 82,
+          "workSchool": 302,
+          "commuting": 9,
+          "housework": 241,
+          "care": 11,
+          "shoppingOther": 51
+        }
+      },
+      {
+        "ageGroup": "75+",
+        "minutes": {
+          "sleep": 531,
+          "meals": 135,
+          "personalCare": 90,
+          "workSchool": 258,
+          "commuting": 1,
+          "housework": 212,
+          "care": 4,
+          "shoppingOther": 36
+        }
+      }
+    ]
+  }
+}

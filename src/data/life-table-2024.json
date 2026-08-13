@@ -1,0 +1,1496 @@
+{
+  "source": "令和6年簡易生命表",
+  "publisher": "厚生労働省",
+  "referenceYear": 2024,
+  "sourceUrl": "https://www.mhlw.go.jp/toukei/saikin/hw/life/life24/",
+  "tables": {
+    "male": [
+      {
+        "age": 0,
+        "mortalityRate": 0.00182,
+        "survivors": 100000,
+        "deaths": 182,
+        "lifeExpectancyYears": 81.09
+      },
+      {
+        "age": 1,
+        "mortalityRate": 0.00025,
+        "survivors": 99818,
+        "deaths": 25,
+        "lifeExpectancyYears": 80.24
+      },
+      {
+        "age": 2,
+        "mortalityRate": 0.00018,
+        "survivors": 99793,
+        "deaths": 18,
+        "lifeExpectancyYears": 79.26
+      },
+      {
+        "age": 3,
+        "mortalityRate": 0.00013,
+        "survivors": 99776,
+        "deaths": 13,
+        "lifeExpectancyYears": 78.27
+      },
+      {
+        "age": 4,
+        "mortalityRate": 0.0001,
+        "survivors": 99763,
+        "deaths": 10,
+        "lifeExpectancyYears": 77.28
+      },
+      {
+        "age": 5,
+        "mortalityRate": 9e-05,
+        "survivors": 99753,
+        "deaths": 9,
+        "lifeExpectancyYears": 76.29
+      },
+      {
+        "age": 6,
+        "mortalityRate": 8e-05,
+        "survivors": 99745,
+        "deaths": 8,
+        "lifeExpectancyYears": 75.3
+      },
+      {
+        "age": 7,
+        "mortalityRate": 8e-05,
+        "survivors": 99736,
+        "deaths": 8,
+        "lifeExpectancyYears": 74.3
+      },
+      {
+        "age": 8,
+        "mortalityRate": 8e-05,
+        "survivors": 99729,
+        "deaths": 7,
+        "lifeExpectancyYears": 73.31
+      },
+      {
+        "age": 9,
+        "mortalityRate": 8e-05,
+        "survivors": 99721,
+        "deaths": 7,
+        "lifeExpectancyYears": 72.31
+      },
+      {
+        "age": 10,
+        "mortalityRate": 8e-05,
+        "survivors": 99714,
+        "deaths": 8,
+        "lifeExpectancyYears": 71.32
+      },
+      {
+        "age": 11,
+        "mortalityRate": 9e-05,
+        "survivors": 99706,
+        "deaths": 9,
+        "lifeExpectancyYears": 70.33
+      },
+      {
+        "age": 12,
+        "mortalityRate": 0.0001,
+        "survivors": 99697,
+        "deaths": 10,
+        "lifeExpectancyYears": 69.33
+      },
+      {
+        "age": 13,
+        "mortalityRate": 0.00012,
+        "survivors": 99687,
+        "deaths": 12,
+        "lifeExpectancyYears": 68.34
+      },
+      {
+        "age": 14,
+        "mortalityRate": 0.00014,
+        "survivors": 99676,
+        "deaths": 14,
+        "lifeExpectancyYears": 67.35
+      },
+      {
+        "age": 15,
+        "mortalityRate": 0.00018,
+        "survivors": 99662,
+        "deaths": 18,
+        "lifeExpectancyYears": 66.36
+      },
+      {
+        "age": 16,
+        "mortalityRate": 0.00022,
+        "survivors": 99644,
+        "deaths": 22,
+        "lifeExpectancyYears": 65.37
+      },
+      {
+        "age": 17,
+        "mortalityRate": 0.00026,
+        "survivors": 99622,
+        "deaths": 26,
+        "lifeExpectancyYears": 64.38
+      },
+      {
+        "age": 18,
+        "mortalityRate": 0.00031,
+        "survivors": 99595,
+        "deaths": 30,
+        "lifeExpectancyYears": 63.4
+      },
+      {
+        "age": 19,
+        "mortalityRate": 0.00036,
+        "survivors": 99565,
+        "deaths": 36,
+        "lifeExpectancyYears": 62.42
+      },
+      {
+        "age": 20,
+        "mortalityRate": 0.00042,
+        "survivors": 99529,
+        "deaths": 41,
+        "lifeExpectancyYears": 61.44
+      },
+      {
+        "age": 21,
+        "mortalityRate": 0.00047,
+        "survivors": 99488,
+        "deaths": 46,
+        "lifeExpectancyYears": 60.47
+      },
+      {
+        "age": 22,
+        "mortalityRate": 0.00049,
+        "survivors": 99441,
+        "deaths": 49,
+        "lifeExpectancyYears": 59.49
+      },
+      {
+        "age": 23,
+        "mortalityRate": 0.00049,
+        "survivors": 99393,
+        "deaths": 48,
+        "lifeExpectancyYears": 58.52
+      },
+      {
+        "age": 24,
+        "mortalityRate": 0.00047,
+        "survivors": 99345,
+        "deaths": 47,
+        "lifeExpectancyYears": 57.55
+      },
+      {
+        "age": 25,
+        "mortalityRate": 0.00047,
+        "survivors": 99298,
+        "deaths": 46,
+        "lifeExpectancyYears": 56.58
+      },
+      {
+        "age": 26,
+        "mortalityRate": 0.00047,
+        "survivors": 99251,
+        "deaths": 46,
+        "lifeExpectancyYears": 55.6
+      },
+      {
+        "age": 27,
+        "mortalityRate": 0.00047,
+        "survivors": 99205,
+        "deaths": 47,
+        "lifeExpectancyYears": 54.63
+      },
+      {
+        "age": 28,
+        "mortalityRate": 0.00048,
+        "survivors": 99158,
+        "deaths": 48,
+        "lifeExpectancyYears": 53.65
+      },
+      {
+        "age": 29,
+        "mortalityRate": 0.0005,
+        "survivors": 99111,
+        "deaths": 50,
+        "lifeExpectancyYears": 52.68
+      },
+      {
+        "age": 30,
+        "mortalityRate": 0.00053,
+        "survivors": 99061,
+        "deaths": 52,
+        "lifeExpectancyYears": 51.71
+      },
+      {
+        "age": 31,
+        "mortalityRate": 0.00056,
+        "survivors": 99009,
+        "deaths": 55,
+        "lifeExpectancyYears": 50.73
+      },
+      {
+        "age": 32,
+        "mortalityRate": 0.00059,
+        "survivors": 98953,
+        "deaths": 58,
+        "lifeExpectancyYears": 49.76
+      },
+      {
+        "age": 33,
+        "mortalityRate": 0.00062,
+        "survivors": 98895,
+        "deaths": 61,
+        "lifeExpectancyYears": 48.79
+      },
+      {
+        "age": 34,
+        "mortalityRate": 0.00066,
+        "survivors": 98834,
+        "deaths": 65,
+        "lifeExpectancyYears": 47.82
+      },
+      {
+        "age": 35,
+        "mortalityRate": 0.00071,
+        "survivors": 98769,
+        "deaths": 70,
+        "lifeExpectancyYears": 46.85
+      },
+      {
+        "age": 36,
+        "mortalityRate": 0.00075,
+        "survivors": 98700,
+        "deaths": 74,
+        "lifeExpectancyYears": 45.88
+      },
+      {
+        "age": 37,
+        "mortalityRate": 0.0008,
+        "survivors": 98625,
+        "deaths": 79,
+        "lifeExpectancyYears": 44.92
+      },
+      {
+        "age": 38,
+        "mortalityRate": 0.00084,
+        "survivors": 98547,
+        "deaths": 83,
+        "lifeExpectancyYears": 43.95
+      },
+      {
+        "age": 39,
+        "mortalityRate": 0.0009,
+        "survivors": 98463,
+        "deaths": 88,
+        "lifeExpectancyYears": 42.99
+      },
+      {
+        "age": 40,
+        "mortalityRate": 0.00097,
+        "survivors": 98375,
+        "deaths": 96,
+        "lifeExpectancyYears": 42.03
+      },
+      {
+        "age": 41,
+        "mortalityRate": 0.00107,
+        "survivors": 98279,
+        "deaths": 105,
+        "lifeExpectancyYears": 41.07
+      },
+      {
+        "age": 42,
+        "mortalityRate": 0.00117,
+        "survivors": 98174,
+        "deaths": 115,
+        "lifeExpectancyYears": 40.11
+      },
+      {
+        "age": 43,
+        "mortalityRate": 0.00125,
+        "survivors": 98060,
+        "deaths": 123,
+        "lifeExpectancyYears": 39.16
+      },
+      {
+        "age": 44,
+        "mortalityRate": 0.00134,
+        "survivors": 97937,
+        "deaths": 131,
+        "lifeExpectancyYears": 38.21
+      },
+      {
+        "age": 45,
+        "mortalityRate": 0.00144,
+        "survivors": 97806,
+        "deaths": 141,
+        "lifeExpectancyYears": 37.26
+      },
+      {
+        "age": 46,
+        "mortalityRate": 0.00157,
+        "survivors": 97665,
+        "deaths": 153,
+        "lifeExpectancyYears": 36.31
+      },
+      {
+        "age": 47,
+        "mortalityRate": 0.00174,
+        "survivors": 97512,
+        "deaths": 169,
+        "lifeExpectancyYears": 35.37
+      },
+      {
+        "age": 48,
+        "mortalityRate": 0.00194,
+        "survivors": 97342,
+        "deaths": 189,
+        "lifeExpectancyYears": 34.43
+      },
+      {
+        "age": 49,
+        "mortalityRate": 0.00216,
+        "survivors": 97154,
+        "deaths": 210,
+        "lifeExpectancyYears": 33.49
+      },
+      {
+        "age": 50,
+        "mortalityRate": 0.00238,
+        "survivors": 96944,
+        "deaths": 231,
+        "lifeExpectancyYears": 32.57
+      },
+      {
+        "age": 51,
+        "mortalityRate": 0.00263,
+        "survivors": 96713,
+        "deaths": 254,
+        "lifeExpectancyYears": 31.64
+      },
+      {
+        "age": 52,
+        "mortalityRate": 0.00289,
+        "survivors": 96459,
+        "deaths": 279,
+        "lifeExpectancyYears": 30.72
+      },
+      {
+        "age": 53,
+        "mortalityRate": 0.00321,
+        "survivors": 96180,
+        "deaths": 309,
+        "lifeExpectancyYears": 29.81
+      },
+      {
+        "age": 54,
+        "mortalityRate": 0.00355,
+        "survivors": 95871,
+        "deaths": 340,
+        "lifeExpectancyYears": 28.91
+      },
+      {
+        "age": 55,
+        "mortalityRate": 0.00394,
+        "survivors": 95531,
+        "deaths": 376,
+        "lifeExpectancyYears": 28.01
+      },
+      {
+        "age": 56,
+        "mortalityRate": 0.00437,
+        "survivors": 95155,
+        "deaths": 415,
+        "lifeExpectancyYears": 27.12
+      },
+      {
+        "age": 57,
+        "mortalityRate": 0.00482,
+        "survivors": 94739,
+        "deaths": 457,
+        "lifeExpectancyYears": 26.23
+      },
+      {
+        "age": 58,
+        "mortalityRate": 0.00531,
+        "survivors": 94283,
+        "deaths": 501,
+        "lifeExpectancyYears": 25.36
+      },
+      {
+        "age": 59,
+        "mortalityRate": 0.00583,
+        "survivors": 93782,
+        "deaths": 547,
+        "lifeExpectancyYears": 24.49
+      },
+      {
+        "age": 60,
+        "mortalityRate": 0.00639,
+        "survivors": 93235,
+        "deaths": 596,
+        "lifeExpectancyYears": 23.63
+      },
+      {
+        "age": 61,
+        "mortalityRate": 0.007,
+        "survivors": 92640,
+        "deaths": 648,
+        "lifeExpectancyYears": 22.78
+      },
+      {
+        "age": 62,
+        "mortalityRate": 0.00771,
+        "survivors": 91991,
+        "deaths": 710,
+        "lifeExpectancyYears": 21.94
+      },
+      {
+        "age": 63,
+        "mortalityRate": 0.00854,
+        "survivors": 91281,
+        "deaths": 780,
+        "lifeExpectancyYears": 21.1
+      },
+      {
+        "age": 64,
+        "mortalityRate": 0.00948,
+        "survivors": 90502,
+        "deaths": 858,
+        "lifeExpectancyYears": 20.28
+      },
+      {
+        "age": 65,
+        "mortalityRate": 0.01051,
+        "survivors": 89644,
+        "deaths": 942,
+        "lifeExpectancyYears": 19.47
+      },
+      {
+        "age": 66,
+        "mortalityRate": 0.01161,
+        "survivors": 88701,
+        "deaths": 1030,
+        "lifeExpectancyYears": 18.67
+      },
+      {
+        "age": 67,
+        "mortalityRate": 0.01277,
+        "survivors": 87672,
+        "deaths": 1119,
+        "lifeExpectancyYears": 17.88
+      },
+      {
+        "age": 68,
+        "mortalityRate": 0.01407,
+        "survivors": 86552,
+        "deaths": 1218,
+        "lifeExpectancyYears": 17.11
+      },
+      {
+        "age": 69,
+        "mortalityRate": 0.01555,
+        "survivors": 85335,
+        "deaths": 1327,
+        "lifeExpectancyYears": 16.35
+      },
+      {
+        "age": 70,
+        "mortalityRate": 0.01724,
+        "survivors": 84007,
+        "deaths": 1448,
+        "lifeExpectancyYears": 15.6
+      },
+      {
+        "age": 71,
+        "mortalityRate": 0.01917,
+        "survivors": 82559,
+        "deaths": 1583,
+        "lifeExpectancyYears": 14.86
+      },
+      {
+        "age": 72,
+        "mortalityRate": 0.0213,
+        "survivors": 80976,
+        "deaths": 1725,
+        "lifeExpectancyYears": 14.14
+      },
+      {
+        "age": 73,
+        "mortalityRate": 0.02369,
+        "survivors": 79250,
+        "deaths": 1877,
+        "lifeExpectancyYears": 13.44
+      },
+      {
+        "age": 74,
+        "mortalityRate": 0.0263,
+        "survivors": 77373,
+        "deaths": 2035,
+        "lifeExpectancyYears": 12.75
+      },
+      {
+        "age": 75,
+        "mortalityRate": 0.02894,
+        "survivors": 75338,
+        "deaths": 2180,
+        "lifeExpectancyYears": 12.08
+      },
+      {
+        "age": 76,
+        "mortalityRate": 0.03171,
+        "survivors": 73158,
+        "deaths": 2320,
+        "lifeExpectancyYears": 11.43
+      },
+      {
+        "age": 77,
+        "mortalityRate": 0.03498,
+        "survivors": 70838,
+        "deaths": 2478,
+        "lifeExpectancyYears": 10.79
+      },
+      {
+        "age": 78,
+        "mortalityRate": 0.03893,
+        "survivors": 68360,
+        "deaths": 2662,
+        "lifeExpectancyYears": 10.16
+      },
+      {
+        "age": 79,
+        "mortalityRate": 0.0435,
+        "survivors": 65698,
+        "deaths": 2858,
+        "lifeExpectancyYears": 9.55
+      },
+      {
+        "age": 80,
+        "mortalityRate": 0.04861,
+        "survivors": 62840,
+        "deaths": 3055,
+        "lifeExpectancyYears": 8.96
+      },
+      {
+        "age": 81,
+        "mortalityRate": 0.05417,
+        "survivors": 59785,
+        "deaths": 3239,
+        "lifeExpectancyYears": 8.39
+      },
+      {
+        "age": 82,
+        "mortalityRate": 0.06002,
+        "survivors": 56546,
+        "deaths": 3394,
+        "lifeExpectancyYears": 7.84
+      },
+      {
+        "age": 83,
+        "mortalityRate": 0.06687,
+        "survivors": 53152,
+        "deaths": 3554,
+        "lifeExpectancyYears": 7.31
+      },
+      {
+        "age": 84,
+        "mortalityRate": 0.07513,
+        "survivors": 49598,
+        "deaths": 3726,
+        "lifeExpectancyYears": 6.8
+      },
+      {
+        "age": 85,
+        "mortalityRate": 0.08467,
+        "survivors": 45872,
+        "deaths": 3884,
+        "lifeExpectancyYears": 6.31
+      },
+      {
+        "age": 86,
+        "mortalityRate": 0.09544,
+        "survivors": 41988,
+        "deaths": 4007,
+        "lifeExpectancyYears": 5.85
+      },
+      {
+        "age": 87,
+        "mortalityRate": 0.1074,
+        "survivors": 37980,
+        "deaths": 4079,
+        "lifeExpectancyYears": 5.41
+      },
+      {
+        "age": 88,
+        "mortalityRate": 0.12076,
+        "survivors": 33901,
+        "deaths": 4094,
+        "lifeExpectancyYears": 5.01
+      },
+      {
+        "age": 89,
+        "mortalityRate": 0.13561,
+        "survivors": 29807,
+        "deaths": 4042,
+        "lifeExpectancyYears": 4.62
+      },
+      {
+        "age": 90,
+        "mortalityRate": 0.15175,
+        "survivors": 25765,
+        "deaths": 3910,
+        "lifeExpectancyYears": 4.27
+      },
+      {
+        "age": 91,
+        "mortalityRate": 0.16524,
+        "survivors": 21855,
+        "deaths": 3611,
+        "lifeExpectancyYears": 3.95
+      },
+      {
+        "age": 92,
+        "mortalityRate": 0.18235,
+        "survivors": 18244,
+        "deaths": 3327,
+        "lifeExpectancyYears": 3.63
+      },
+      {
+        "age": 93,
+        "mortalityRate": 0.20147,
+        "survivors": 14917,
+        "deaths": 3005,
+        "lifeExpectancyYears": 3.33
+      },
+      {
+        "age": 94,
+        "mortalityRate": 0.22276,
+        "survivors": 11912,
+        "deaths": 2653,
+        "lifeExpectancyYears": 3.05
+      },
+      {
+        "age": 95,
+        "mortalityRate": 0.2464,
+        "survivors": 9258,
+        "deaths": 2281,
+        "lifeExpectancyYears": 2.78
+      },
+      {
+        "age": 96,
+        "mortalityRate": 0.27252,
+        "survivors": 6977,
+        "deaths": 1901,
+        "lifeExpectancyYears": 2.53
+      },
+      {
+        "age": 97,
+        "mortalityRate": 0.30126,
+        "survivors": 5076,
+        "deaths": 1529,
+        "lifeExpectancyYears": 2.3
+      },
+      {
+        "age": 98,
+        "mortalityRate": 0.33271,
+        "survivors": 3547,
+        "deaths": 1180,
+        "lifeExpectancyYears": 2.08
+      },
+      {
+        "age": 99,
+        "mortalityRate": 0.36691,
+        "survivors": 2367,
+        "deaths": 868,
+        "lifeExpectancyYears": 1.88
+      },
+      {
+        "age": 100,
+        "mortalityRate": 0.40384,
+        "survivors": 1498,
+        "deaths": 605,
+        "lifeExpectancyYears": 1.69
+      },
+      {
+        "age": 101,
+        "mortalityRate": 0.44341,
+        "survivors": 893,
+        "deaths": 396,
+        "lifeExpectancyYears": 1.52
+      },
+      {
+        "age": 102,
+        "mortalityRate": 0.4854,
+        "survivors": 497,
+        "deaths": 241,
+        "lifeExpectancyYears": 1.36
+      },
+      {
+        "age": 103,
+        "mortalityRate": 0.52952,
+        "survivors": 256,
+        "deaths": 135,
+        "lifeExpectancyYears": 1.22
+      },
+      {
+        "age": 104,
+        "mortalityRate": 0.57531,
+        "survivors": 120,
+        "deaths": 69,
+        "lifeExpectancyYears": 1.09
+      },
+      {
+        "age": 105,
+        "mortalityRate": 1.0,
+        "survivors": 51,
+        "deaths": 51,
+        "lifeExpectancyYears": 0.97
+      }
+    ],
+    "female": [
+      {
+        "age": 0,
+        "mortalityRate": 0.00182,
+        "survivors": 100000,
+        "deaths": 182,
+        "lifeExpectancyYears": 87.13
+      },
+      {
+        "age": 1,
+        "mortalityRate": 0.00025,
+        "survivors": 99818,
+        "deaths": 25,
+        "lifeExpectancyYears": 86.28
+      },
+      {
+        "age": 2,
+        "mortalityRate": 0.00019,
+        "survivors": 99793,
+        "deaths": 19,
+        "lifeExpectancyYears": 85.31
+      },
+      {
+        "age": 3,
+        "mortalityRate": 0.00014,
+        "survivors": 99774,
+        "deaths": 14,
+        "lifeExpectancyYears": 84.32
+      },
+      {
+        "age": 4,
+        "mortalityRate": 0.00011,
+        "survivors": 99760,
+        "deaths": 11,
+        "lifeExpectancyYears": 83.33
+      },
+      {
+        "age": 5,
+        "mortalityRate": 8e-05,
+        "survivors": 99749,
+        "deaths": 8,
+        "lifeExpectancyYears": 82.34
+      },
+      {
+        "age": 6,
+        "mortalityRate": 7e-05,
+        "survivors": 99740,
+        "deaths": 7,
+        "lifeExpectancyYears": 81.35
+      },
+      {
+        "age": 7,
+        "mortalityRate": 7e-05,
+        "survivors": 99733,
+        "deaths": 7,
+        "lifeExpectancyYears": 80.36
+      },
+      {
+        "age": 8,
+        "mortalityRate": 6e-05,
+        "survivors": 99727,
+        "deaths": 6,
+        "lifeExpectancyYears": 79.36
+      },
+      {
+        "age": 9,
+        "mortalityRate": 6e-05,
+        "survivors": 99720,
+        "deaths": 6,
+        "lifeExpectancyYears": 78.37
+      },
+      {
+        "age": 10,
+        "mortalityRate": 6e-05,
+        "survivors": 99715,
+        "deaths": 6,
+        "lifeExpectancyYears": 77.37
+      },
+      {
+        "age": 11,
+        "mortalityRate": 7e-05,
+        "survivors": 99709,
+        "deaths": 7,
+        "lifeExpectancyYears": 76.38
+      },
+      {
+        "age": 12,
+        "mortalityRate": 9e-05,
+        "survivors": 99702,
+        "deaths": 9,
+        "lifeExpectancyYears": 75.38
+      },
+      {
+        "age": 13,
+        "mortalityRate": 0.00011,
+        "survivors": 99694,
+        "deaths": 11,
+        "lifeExpectancyYears": 74.39
+      },
+      {
+        "age": 14,
+        "mortalityRate": 0.00014,
+        "survivors": 99682,
+        "deaths": 14,
+        "lifeExpectancyYears": 73.39
+      },
+      {
+        "age": 15,
+        "mortalityRate": 0.00017,
+        "survivors": 99668,
+        "deaths": 17,
+        "lifeExpectancyYears": 72.41
+      },
+      {
+        "age": 16,
+        "mortalityRate": 0.0002,
+        "survivors": 99651,
+        "deaths": 20,
+        "lifeExpectancyYears": 71.42
+      },
+      {
+        "age": 17,
+        "mortalityRate": 0.00022,
+        "survivors": 99632,
+        "deaths": 22,
+        "lifeExpectancyYears": 70.43
+      },
+      {
+        "age": 18,
+        "mortalityRate": 0.00025,
+        "survivors": 99610,
+        "deaths": 24,
+        "lifeExpectancyYears": 69.45
+      },
+      {
+        "age": 19,
+        "mortalityRate": 0.00026,
+        "survivors": 99585,
+        "deaths": 26,
+        "lifeExpectancyYears": 68.46
+      },
+      {
+        "age": 20,
+        "mortalityRate": 0.00028,
+        "survivors": 99559,
+        "deaths": 28,
+        "lifeExpectancyYears": 67.48
+      },
+      {
+        "age": 21,
+        "mortalityRate": 0.00029,
+        "survivors": 99531,
+        "deaths": 29,
+        "lifeExpectancyYears": 66.5
+      },
+      {
+        "age": 22,
+        "mortalityRate": 0.0003,
+        "survivors": 99502,
+        "deaths": 29,
+        "lifeExpectancyYears": 65.52
+      },
+      {
+        "age": 23,
+        "mortalityRate": 0.0003,
+        "survivors": 99473,
+        "deaths": 29,
+        "lifeExpectancyYears": 64.54
+      },
+      {
+        "age": 24,
+        "mortalityRate": 0.00029,
+        "survivors": 99444,
+        "deaths": 29,
+        "lifeExpectancyYears": 63.56
+      },
+      {
+        "age": 25,
+        "mortalityRate": 0.00029,
+        "survivors": 99414,
+        "deaths": 29,
+        "lifeExpectancyYears": 62.58
+      },
+      {
+        "age": 26,
+        "mortalityRate": 0.0003,
+        "survivors": 99385,
+        "deaths": 30,
+        "lifeExpectancyYears": 61.59
+      },
+      {
+        "age": 27,
+        "mortalityRate": 0.0003,
+        "survivors": 99356,
+        "deaths": 30,
+        "lifeExpectancyYears": 60.61
+      },
+      {
+        "age": 28,
+        "mortalityRate": 0.0003,
+        "survivors": 99326,
+        "deaths": 30,
+        "lifeExpectancyYears": 59.63
+      },
+      {
+        "age": 29,
+        "mortalityRate": 0.0003,
+        "survivors": 99296,
+        "deaths": 30,
+        "lifeExpectancyYears": 58.65
+      },
+      {
+        "age": 30,
+        "mortalityRate": 0.0003,
+        "survivors": 99266,
+        "deaths": 30,
+        "lifeExpectancyYears": 57.67
+      },
+      {
+        "age": 31,
+        "mortalityRate": 0.00031,
+        "survivors": 99236,
+        "deaths": 31,
+        "lifeExpectancyYears": 56.68
+      },
+      {
+        "age": 32,
+        "mortalityRate": 0.00032,
+        "survivors": 99205,
+        "deaths": 32,
+        "lifeExpectancyYears": 55.7
+      },
+      {
+        "age": 33,
+        "mortalityRate": 0.00034,
+        "survivors": 99174,
+        "deaths": 34,
+        "lifeExpectancyYears": 54.72
+      },
+      {
+        "age": 34,
+        "mortalityRate": 0.00037,
+        "survivors": 99140,
+        "deaths": 37,
+        "lifeExpectancyYears": 53.74
+      },
+      {
+        "age": 35,
+        "mortalityRate": 0.00041,
+        "survivors": 99103,
+        "deaths": 40,
+        "lifeExpectancyYears": 52.76
+      },
+      {
+        "age": 36,
+        "mortalityRate": 0.00045,
+        "survivors": 99063,
+        "deaths": 44,
+        "lifeExpectancyYears": 51.78
+      },
+      {
+        "age": 37,
+        "mortalityRate": 0.00048,
+        "survivors": 99019,
+        "deaths": 47,
+        "lifeExpectancyYears": 50.8
+      },
+      {
+        "age": 38,
+        "mortalityRate": 0.0005,
+        "survivors": 98971,
+        "deaths": 50,
+        "lifeExpectancyYears": 49.82
+      },
+      {
+        "age": 39,
+        "mortalityRate": 0.00053,
+        "survivors": 98922,
+        "deaths": 53,
+        "lifeExpectancyYears": 48.85
+      },
+      {
+        "age": 40,
+        "mortalityRate": 0.00057,
+        "survivors": 98869,
+        "deaths": 56,
+        "lifeExpectancyYears": 47.88
+      },
+      {
+        "age": 41,
+        "mortalityRate": 0.00061,
+        "survivors": 98813,
+        "deaths": 60,
+        "lifeExpectancyYears": 46.9
+      },
+      {
+        "age": 42,
+        "mortalityRate": 0.00066,
+        "survivors": 98752,
+        "deaths": 65,
+        "lifeExpectancyYears": 45.93
+      },
+      {
+        "age": 43,
+        "mortalityRate": 0.00072,
+        "survivors": 98687,
+        "deaths": 71,
+        "lifeExpectancyYears": 44.96
+      },
+      {
+        "age": 44,
+        "mortalityRate": 0.00079,
+        "survivors": 98616,
+        "deaths": 78,
+        "lifeExpectancyYears": 43.99
+      },
+      {
+        "age": 45,
+        "mortalityRate": 0.00087,
+        "survivors": 98538,
+        "deaths": 86,
+        "lifeExpectancyYears": 43.03
+      },
+      {
+        "age": 46,
+        "mortalityRate": 0.00096,
+        "survivors": 98452,
+        "deaths": 95,
+        "lifeExpectancyYears": 42.06
+      },
+      {
+        "age": 47,
+        "mortalityRate": 0.00106,
+        "survivors": 98358,
+        "deaths": 104,
+        "lifeExpectancyYears": 41.1
+      },
+      {
+        "age": 48,
+        "mortalityRate": 0.00116,
+        "survivors": 98254,
+        "deaths": 114,
+        "lifeExpectancyYears": 40.15
+      },
+      {
+        "age": 49,
+        "mortalityRate": 0.00128,
+        "survivors": 98140,
+        "deaths": 126,
+        "lifeExpectancyYears": 39.19
+      },
+      {
+        "age": 50,
+        "mortalityRate": 0.00141,
+        "survivors": 98014,
+        "deaths": 138,
+        "lifeExpectancyYears": 38.24
+      },
+      {
+        "age": 51,
+        "mortalityRate": 0.00155,
+        "survivors": 97876,
+        "deaths": 152,
+        "lifeExpectancyYears": 37.3
+      },
+      {
+        "age": 52,
+        "mortalityRate": 0.00169,
+        "survivors": 97723,
+        "deaths": 165,
+        "lifeExpectancyYears": 36.35
+      },
+      {
+        "age": 53,
+        "mortalityRate": 0.00182,
+        "survivors": 97559,
+        "deaths": 178,
+        "lifeExpectancyYears": 35.41
+      },
+      {
+        "age": 54,
+        "mortalityRate": 0.00196,
+        "survivors": 97381,
+        "deaths": 190,
+        "lifeExpectancyYears": 34.48
+      },
+      {
+        "age": 55,
+        "mortalityRate": 0.00209,
+        "survivors": 97191,
+        "deaths": 204,
+        "lifeExpectancyYears": 33.54
+      },
+      {
+        "age": 56,
+        "mortalityRate": 0.00224,
+        "survivors": 96987,
+        "deaths": 217,
+        "lifeExpectancyYears": 32.61
+      },
+      {
+        "age": 57,
+        "mortalityRate": 0.0024,
+        "survivors": 96770,
+        "deaths": 232,
+        "lifeExpectancyYears": 31.69
+      },
+      {
+        "age": 58,
+        "mortalityRate": 0.00256,
+        "survivors": 96538,
+        "deaths": 247,
+        "lifeExpectancyYears": 30.76
+      },
+      {
+        "age": 59,
+        "mortalityRate": 0.00276,
+        "survivors": 96290,
+        "deaths": 265,
+        "lifeExpectancyYears": 29.84
+      },
+      {
+        "age": 60,
+        "mortalityRate": 0.00297,
+        "survivors": 96025,
+        "deaths": 285,
+        "lifeExpectancyYears": 28.92
+      },
+      {
+        "age": 61,
+        "mortalityRate": 0.00318,
+        "survivors": 95740,
+        "deaths": 305,
+        "lifeExpectancyYears": 28.0
+      },
+      {
+        "age": 62,
+        "mortalityRate": 0.00343,
+        "survivors": 95435,
+        "deaths": 328,
+        "lifeExpectancyYears": 27.09
+      },
+      {
+        "age": 63,
+        "mortalityRate": 0.00374,
+        "survivors": 95108,
+        "deaths": 356,
+        "lifeExpectancyYears": 26.18
+      },
+      {
+        "age": 64,
+        "mortalityRate": 0.00409,
+        "survivors": 94752,
+        "deaths": 388,
+        "lifeExpectancyYears": 25.28
+      },
+      {
+        "age": 65,
+        "mortalityRate": 0.00446,
+        "survivors": 94364,
+        "deaths": 421,
+        "lifeExpectancyYears": 24.38
+      },
+      {
+        "age": 66,
+        "mortalityRate": 0.00484,
+        "survivors": 93943,
+        "deaths": 455,
+        "lifeExpectancyYears": 23.49
+      },
+      {
+        "age": 67,
+        "mortalityRate": 0.00524,
+        "survivors": 93488,
+        "deaths": 490,
+        "lifeExpectancyYears": 22.6
+      },
+      {
+        "age": 68,
+        "mortalityRate": 0.00571,
+        "survivors": 92998,
+        "deaths": 531,
+        "lifeExpectancyYears": 21.72
+      },
+      {
+        "age": 69,
+        "mortalityRate": 0.00631,
+        "survivors": 92467,
+        "deaths": 584,
+        "lifeExpectancyYears": 20.84
+      },
+      {
+        "age": 70,
+        "mortalityRate": 0.00704,
+        "survivors": 91883,
+        "deaths": 647,
+        "lifeExpectancyYears": 19.97
+      },
+      {
+        "age": 71,
+        "mortalityRate": 0.00785,
+        "survivors": 91237,
+        "deaths": 716,
+        "lifeExpectancyYears": 19.11
+      },
+      {
+        "age": 72,
+        "mortalityRate": 0.00874,
+        "survivors": 90520,
+        "deaths": 791,
+        "lifeExpectancyYears": 18.25
+      },
+      {
+        "age": 73,
+        "mortalityRate": 0.00975,
+        "survivors": 89729,
+        "deaths": 875,
+        "lifeExpectancyYears": 17.41
+      },
+      {
+        "age": 74,
+        "mortalityRate": 0.01094,
+        "survivors": 88854,
+        "deaths": 972,
+        "lifeExpectancyYears": 16.58
+      },
+      {
+        "age": 75,
+        "mortalityRate": 0.01224,
+        "survivors": 87882,
+        "deaths": 1075,
+        "lifeExpectancyYears": 15.75
+      },
+      {
+        "age": 76,
+        "mortalityRate": 0.01366,
+        "survivors": 86807,
+        "deaths": 1186,
+        "lifeExpectancyYears": 14.94
+      },
+      {
+        "age": 77,
+        "mortalityRate": 0.01536,
+        "survivors": 85621,
+        "deaths": 1315,
+        "lifeExpectancyYears": 14.14
+      },
+      {
+        "age": 78,
+        "mortalityRate": 0.01743,
+        "survivors": 84306,
+        "deaths": 1469,
+        "lifeExpectancyYears": 13.35
+      },
+      {
+        "age": 79,
+        "mortalityRate": 0.01994,
+        "survivors": 82837,
+        "deaths": 1652,
+        "lifeExpectancyYears": 12.58
+      },
+      {
+        "age": 80,
+        "mortalityRate": 0.02294,
+        "survivors": 81184,
+        "deaths": 1863,
+        "lifeExpectancyYears": 11.83
+      },
+      {
+        "age": 81,
+        "mortalityRate": 0.02633,
+        "survivors": 79322,
+        "deaths": 2089,
+        "lifeExpectancyYears": 11.09
+      },
+      {
+        "age": 82,
+        "mortalityRate": 0.03007,
+        "survivors": 77233,
+        "deaths": 2322,
+        "lifeExpectancyYears": 10.38
+      },
+      {
+        "age": 83,
+        "mortalityRate": 0.03448,
+        "survivors": 74911,
+        "deaths": 2583,
+        "lifeExpectancyYears": 9.69
+      },
+      {
+        "age": 84,
+        "mortalityRate": 0.03973,
+        "survivors": 72328,
+        "deaths": 2874,
+        "lifeExpectancyYears": 9.01
+      },
+      {
+        "age": 85,
+        "mortalityRate": 0.04602,
+        "survivors": 69454,
+        "deaths": 3196,
+        "lifeExpectancyYears": 8.37
+      },
+      {
+        "age": 86,
+        "mortalityRate": 0.0533,
+        "survivors": 66258,
+        "deaths": 3532,
+        "lifeExpectancyYears": 7.75
+      },
+      {
+        "age": 87,
+        "mortalityRate": 0.06158,
+        "survivors": 62726,
+        "deaths": 3863,
+        "lifeExpectancyYears": 7.15
+      },
+      {
+        "age": 88,
+        "mortalityRate": 0.0712,
+        "survivors": 58863,
+        "deaths": 4191,
+        "lifeExpectancyYears": 6.59
+      },
+      {
+        "age": 89,
+        "mortalityRate": 0.08239,
+        "survivors": 54672,
+        "deaths": 4504,
+        "lifeExpectancyYears": 6.05
+      },
+      {
+        "age": 90,
+        "mortalityRate": 0.0952,
+        "survivors": 50168,
+        "deaths": 4776,
+        "lifeExpectancyYears": 5.55
+      },
+      {
+        "age": 91,
+        "mortalityRate": 0.10915,
+        "survivors": 45392,
+        "deaths": 4954,
+        "lifeExpectancyYears": 5.08
+      },
+      {
+        "age": 92,
+        "mortalityRate": 0.12444,
+        "survivors": 40438,
+        "deaths": 5032,
+        "lifeExpectancyYears": 4.65
+      },
+      {
+        "age": 93,
+        "mortalityRate": 0.14014,
+        "survivors": 35406,
+        "deaths": 4962,
+        "lifeExpectancyYears": 4.24
+      },
+      {
+        "age": 94,
+        "mortalityRate": 0.15761,
+        "survivors": 30444,
+        "deaths": 4798,
+        "lifeExpectancyYears": 3.84
+      },
+      {
+        "age": 95,
+        "mortalityRate": 0.18355,
+        "survivors": 25646,
+        "deaths": 4707,
+        "lifeExpectancyYears": 3.47
+      },
+      {
+        "age": 96,
+        "mortalityRate": 0.20866,
+        "survivors": 20938,
+        "deaths": 4369,
+        "lifeExpectancyYears": 3.14
+      },
+      {
+        "age": 97,
+        "mortalityRate": 0.23588,
+        "survivors": 16569,
+        "deaths": 3908,
+        "lifeExpectancyYears": 2.84
+      },
+      {
+        "age": 98,
+        "mortalityRate": 0.26528,
+        "survivors": 12661,
+        "deaths": 3359,
+        "lifeExpectancyYears": 2.56
+      },
+      {
+        "age": 99,
+        "mortalityRate": 0.29688,
+        "survivors": 9302,
+        "deaths": 2762,
+        "lifeExpectancyYears": 2.31
+      },
+      {
+        "age": 100,
+        "mortalityRate": 0.33068,
+        "survivors": 6541,
+        "deaths": 2163,
+        "lifeExpectancyYears": 2.08
+      },
+      {
+        "age": 101,
+        "mortalityRate": 0.36663,
+        "survivors": 4378,
+        "deaths": 1605,
+        "lifeExpectancyYears": 1.88
+      },
+      {
+        "age": 102,
+        "mortalityRate": 0.40463,
+        "survivors": 2773,
+        "deaths": 1122,
+        "lifeExpectancyYears": 1.69
+      },
+      {
+        "age": 103,
+        "mortalityRate": 0.44451,
+        "survivors": 1651,
+        "deaths": 734,
+        "lifeExpectancyYears": 1.52
+      },
+      {
+        "age": 104,
+        "mortalityRate": 0.48604,
+        "survivors": 917,
+        "deaths": 446,
+        "lifeExpectancyYears": 1.37
+      },
+      {
+        "age": 105,
+        "mortalityRate": 1.0,
+        "survivors": 471,
+        "deaths": 471,
+        "lifeExpectancyYears": 1.23
+      }
+    ]
+  }
+}
