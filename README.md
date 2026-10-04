@@ -2,7 +2,7 @@
 
 日本の公的統計をもとに、統計上の残り時間と自由時間を表示するブラウザアプリです。
 
-公開URL: https://yomei-exe.pages.dev/
+[余命.exeを開く](https://yomei-exe.pages.dev/)
 
 ## 使用データ
 
@@ -10,7 +10,7 @@
 - 総務省統計局「令和3年社会生活基本調査」
 - 厚生労働省「令和6年人口動態統計（確定数）」
 
-原資料、取得元、ハッシュ値、変換方法は [`references/README.md`](references/README.md) に記録しています。
+原資料と変換方法は[データの出典](references/README.md)を参照してください。
 
 ## 開発
 
@@ -21,15 +21,15 @@ npm ci
 npm run dev
 ```
 
-検証コマンドは次のとおりです。
-
 ```bash
 npm run check
 npx playwright install chromium
 npm run test:e2e
 ```
 
-原資料からアプリ用JSONを再生成する場合は `npm run data:generate`、生成済みJSONとの一致を確認する場合は `npm run data:check` を実行します。
+`npm run check`はデータの一致確認、lint、テスト、ビルドを実行します。原資料からアプリ用JSONを再生成するコマンドは`npm run data:generate`です。
+
+E2Eにはポート4173を使います。使用中なら`PLAYWRIGHT_PORT=4198 npm run test:e2e`で変更してください。
 
 ## ライセンス
 

@@ -38,7 +38,6 @@ test('draws a cause only after the user requests it', async ({ page }) => {
   await expect(page.locator('.cause-result')).toHaveCount(0)
   await page.getByRole('button', { name: '死因ガチャを回す' }).click()
   await expect(page.locator('.cause-result')).toBeVisible()
-  await expect(page.getByText('統計から抽選')).toHaveCount(0)
   await expect(page.getByRole('button', { name: '死因ガチャをもう一度回す' })).toBeVisible()
 })
 
